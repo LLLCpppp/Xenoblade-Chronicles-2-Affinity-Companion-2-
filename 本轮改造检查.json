@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "scenarios": 2378,
+  "reviewGroups": 17,
+  "reviewNodes": 88,
+  "mappedHuntRows": 82,
+  "features": [
+    "玩家确认规则",
+    "打标三态",
+    "只看直接下一节点",
+    "未完成讨伐与圆环双向同步",
+    "进度统计不含阶段锁",
+    "不拦截周目",
+    "角色重叠分类",
+    "宫比罗形态互斥",
+    "v1兼容及v2打标备份"
+  ],
+  "rule_finalization": {
+    "review_page_removed": true,
+    "rule_editing_api_removed": true,
+    "existing_browser_labels_preserved": true,
+    "backup_labels_recovery_test": "passed",
+    "all_17_rule_mapping_test": "passed_with_synthetic_fixture",
+    "actual_private_browser_labels_read": false
+  }
+}
