@@ -15,3 +15,5 @@
 
 /* Fiora stands on the right of the original Wiki artwork; keep her face centered. */
 .visual-editor[data-profile="菲奥伦"] .ring-portrait-image img{transform:translateX(-40%) scale(1.45);transform-origin:50% 0;object-position:50% 0}
+
+.related-nodes{margin-top:9px;border:1px solid #d7e2d4;border-radius:5px;background:#f8faf5;overflow:hidden}.related-nodes>summary{cursor:pointer;padding:8px 10px;font-size:10px;font-weight:600;color:var(--teal);line-height:1.6}.related-nodes[open]>summary{border-bottom:1px solid #e0e8dd}.related-nodes>.related-area{padding:10px;border-top:0}.related-nodes .related-roles{grid-template-columns:minmax(0,1fr)}.related-nodes .related-role,.related-nodes .related-role>div{min-width:0}.related-nodes .related-role{padding:8px;overflow-wrap:anywhere}.related-nodes .related-enemy h3{font-size:11px;margin-bottom:8px}.related-nodes .related-role .hunt-readiness{margin-left:0}

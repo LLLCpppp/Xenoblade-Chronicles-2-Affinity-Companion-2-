@@ -8011,8 +8011,8 @@
       "農学"
     ],
     "未录入角色只表示 Wiki 同样要求，实际进度未知；已完成该节点的角色不再列出。": [
-      "Unrecorded Blades share this Wiki requirement, but their progress is unknown. Completed nodes are omitted.",
-      "未登録ブレイドは同じ Wiki 条件を持ちますが、実際の進捗は不明です。達成済みノードは表示しません。"
+      "Unrecorded Blades share this Wiki requirement, but their actual progress is unknown. Blades that have completed the node are excluded.",
+      "未登録のブレイドはWiki上で同じ条件がありますが、実際の進捗は不明です。このノードを達成済みのブレイドは表示しません。"
     ],
     "暴击率增加5%": [
       "Increases critical hit rate by 5%.",
@@ -15061,6 +15061,10 @@
     "伊拉异刃": [
       "Torna Blades",
       "イーラのブレイド"
+    ],
+    "其他同样需要此精英的异刃": [
+      "Other Blades that also need this unique monster",
+      "同じユニークモンスターの討伐が必要な他のブレイド"
     ]
   },
   "terms": {
@@ -21107,8 +21111,8 @@
       "同じ敵の討伐が必要な他のブレイド"
     ],
     "未录入角色只表示 Wiki 同样要求，实际进度未知；已完成该节点的角色不再列出。": [
-      "Unrecorded Blades share this Wiki requirement, but their progress is unknown. Completed nodes are omitted.",
-      "未登録ブレイドは同じ Wiki 条件を持ちますが、実際の進捗は不明です。達成済みノードは表示しません。"
+      "Unrecorded Blades share this Wiki requirement, but their actual progress is unknown. Blades that have completed the node are excluded.",
+      "未登録のブレイドはWiki上で同じ条件がありますが、実際の進捗は不明です。このノードを達成済みのブレイドは表示しません。"
     ],
     "已点到 · 当前下一节点": [
       "Ready · immediate next node",
@@ -21913,6 +21917,10 @@
     "没有该形态备份。": [
       "No backup for this form.",
       "この形態のバックアップはありません。"
+    ],
+    "其他同样需要此精英的异刃": [
+      "Other Blades that also need this unique monster",
+      "同じユニークモンスターの討伐が必要な他のブレイド"
     ]
   },
   "phrases": {
