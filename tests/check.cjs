@@ -19,3 +19,6 @@ console.log('Linkage: '+n+' scenarios passed.'); require('./localization.cjs'); 
 require('./tier-blockers.cjs');
 
 require('./unique-actions.cjs');
+
+require('./file-progress.cjs');
+require('./local-file.cjs');

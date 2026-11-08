@@ -47,3 +47,9 @@ Run `node tests/check.cjs` from the project root for data, rule, save and locali
 For upload instructions, see [the GitHub guide](docs/GITHUB_UPLOAD.zh-CN.md) and [GitHub’s official guide](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github). The root `index.html` supports GitHub Pages using the `main` branch and `/ (root)` folder.
 
 This is an unofficial fan tool. Third-party game text and artwork retain their owners’ rights. No project code license has been selected; see [attribution](ATTRIBUTION.md).
+
+### Save to a local file
+
+The Local progress file panel can autosave to a JSON file in browsers supporting File System Access, such as Chrome / Edge. Use Create and link file once, choose a location, and wait for Local file saved before closing. Reopen the same file using Open progress file each time you open this page. Chart progress, hunt checkmarks, personal rules and form backups are included.
+
+Unlink file stops future writes and retains the browser cache. External file changes stop autosave until you reopen the file. Unsupported browsers retain JSON export/import. Loading a local file replaces the complete current progress; the original import action still merges records.

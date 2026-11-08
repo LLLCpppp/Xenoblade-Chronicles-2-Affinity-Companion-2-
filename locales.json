@@ -15065,6 +15065,130 @@
     "其他同样需要此精英的异刃": [
       "Other Blades that also need this unique monster",
       "同じユニークモンスターの討伐が必要な他のブレイド"
+    ],
+    "本地进度文件": [
+      "Local progress file",
+      "ローカル進捗ファイル"
+    ],
+    "选择电脑上的 JSON 进度文件后，圆环、讨伐和个人规则会自动写入该文件。每次重新打开网页，请打开同一文件继续记录。": [
+      "Choose a JSON progress file on your computer to automatically save chart progress, hunts and personal rules. Reopen the same file each time you open this page.",
+      "PC上のJSON進捗ファイルを選ぶと、リング・討伐・個人判定を自動保存します。ページを開き直した際は同じファイルを開いて続けてください。"
+    ],
+    "新建并关联文件": [
+      "Create and link file",
+      "ファイルを新規作成して関連付け"
+    ],
+    "打开已有进度文件": [
+      "Open progress file",
+      "既存の進捗ファイルを開く"
+    ],
+    "立即保存": [
+      "Save now",
+      "今すぐ保存"
+    ],
+    "断开关联": [
+      "Unlink file",
+      "関連付けを解除"
+    ],
+    "尚未关联本地文件；进度仍会缓存在当前浏览器。": [
+      "No file linked. Progress is still cached in this browser.",
+      "ファイルは未設定です。進捗は引き続きブラウザーにキャッシュされます。"
+    ],
+    "当前浏览器不支持直接写入本地文件，请使用 Chrome 或 Edge，或使用导出、导入进度。": [
+      "This browser cannot write directly to local files. Use Chrome or Edge, or export and import progress.",
+      "このブラウザーはローカルファイルへの直接保存に対応していません。Chrome・Edge、または進捗のエクスポート・インポートをご利用ください。"
+    ],
+    "文件已在外部修改，自动保存已停止。请断开关联后重新打开该文件。": [
+      "The file changed outside this page. Autosave has stopped. Unlink and reopen the file.",
+      "ファイルが外部で変更されたため、自動保存を停止しました。関連付けを解除して開き直してください。"
+    ],
+    "写入本地文件失败，进度仍在浏览器中。请点击“立即保存”重试，或导出备份。": [
+      "File save failed. Progress is still in the browser. Click Save now to retry or export a backup.",
+      "ファイルへの保存に失敗しました。進捗はブラウザーに残っています。「今すぐ保存」で再試行するか、バックアップをエクスポートしてください。"
+    ],
+    "正在写入本地进度文件…": [
+      "Saving local progress file…",
+      "ローカル進捗ファイルに保存中…"
+    ],
+    "有修改等待写入本地文件…": [
+      "Changes waiting to be saved…",
+      "変更をローカルファイルに保存待ち…"
+    ],
+    "本地文件已保存。": [
+      "Local file saved.",
+      "ローカルファイルに保存しました。"
+    ],
+    "已关联本地文件，后续修改将自动保存。": [
+      "File linked. Future changes will be saved automatically.",
+      "ファイルを関連付けました。以降の変更は自動保存されます。"
+    ],
+    "上次保存：": [
+      "Last saved:",
+      "前回保存："
+    ],
+    "本地文件操作失败：": [
+      "Local file operation failed:",
+      "ローカルファイルの操作に失敗しました："
+    ],
+    "未获得文件写入权限，原进度已保留。": [
+      "File write permission was not granted. Existing progress is preserved.",
+      "ファイルへの書き込みが許可されませんでした。元の進捗は保持されています。"
+    ],
+    "请先关联本地进度文件。": [
+      "Link a local progress file first.",
+      "先にローカル進捗ファイルを関連付けてください。"
+    ],
+    "文件已发生变化，请取消后重新打开。": [
+      "The file changed. Cancel and reopen it.",
+      "ファイルが変更されました。キャンセルして開き直してください。"
+    ],
+    "载入本地进度文件": [
+      "Load local progress file",
+      "ローカル進捗ファイルを読み込み"
+    ],
+    "文件中的异刃数：": [
+      "Blades in this file:",
+      "ファイル内のブレイド数："
+    ],
+    "；当前网页中的异刃数：": [
+      "; Blades currently on this page:",
+      "／現在のページ内のブレイド数："
+    ],
+    "载入后以该文件的进度、讨伐勾选和个人规则为准，后续修改会自动写回。需要保留当前网页进度，请先取消并导出备份。": [
+      "Loading replaces this page’s progress, hunt checkmarks and personal rules with this file. Future changes save back to it. To keep current progress, cancel and export a backup first.",
+      "このファイルの進捗・討伐チェック・個人判定で現在の内容を置き換え、以降の変更は同じファイルに保存します。現在の進捗を残す場合は、キャンセルして先にバックアップをエクスポートしてください。"
+    ],
+    "载入并关联": [
+      "Load and link",
+      "読み込んで関連付け"
+    ],
+    "取消": [
+      "Cancel",
+      "キャンセル"
+    ],
+    "已从本地文件载入完整进度。": [
+      "Complete progress loaded from local file.",
+      "ローカルファイルから全進捗を読み込みました。"
+    ],
+    "备份包含无效的讨伐完成记录。": [
+      "The backup contains invalid hunt checkmarks.",
+      "バックアップの討伐チェックが無効です。"
+    ],
+    "备份包含无效的宫比罗形态记录。": [
+      "The backup contains an invalid Dagas form record.",
+      "バックアップのカサネの形態記録が無効です。"
+    ],
+    "浏览器无法保存，未载入进度文件。": [
+      "The browser could not save. The progress file was not loaded.",
+      "ブラウザーに保存できなかったため、進捗ファイルは読み込んでいません。"
+    ],
+    "圆环与讨伐记录可关联本地 JSON 文件自动保存，当前浏览器同时保留缓存。": [
+      "Chart and hunt progress can autosave to a linked local JSON file, with a browser cache retained.",
+      "リング・討伐進捗は関連付けたローカルJSONに自動保存でき、ブラウザーにもキャッシュを保持します。"
+    ],
+    "已关联的本地进度文件也会同步更新。": [
+      "Any linked local progress file is updated too.",
+      "関連付けたローカル進捗ファイルにも反映されます。"
     ]
   },
   "terms": {
@@ -21921,6 +22045,130 @@
     "其他同样需要此精英的异刃": [
       "Other Blades that also need this unique monster",
       "同じユニークモンスターの討伐が必要な他のブレイド"
+    ],
+    "本地进度文件": [
+      "Local progress file",
+      "ローカル進捗ファイル"
+    ],
+    "选择电脑上的 JSON 进度文件后，圆环、讨伐和个人规则会自动写入该文件。每次重新打开网页，请打开同一文件继续记录。": [
+      "Choose a JSON progress file on your computer to automatically save chart progress, hunts and personal rules. Reopen the same file each time you open this page.",
+      "PC上のJSON進捗ファイルを選ぶと、リング・討伐・個人判定を自動保存します。ページを開き直した際は同じファイルを開いて続けてください。"
+    ],
+    "新建并关联文件": [
+      "Create and link file",
+      "ファイルを新規作成して関連付け"
+    ],
+    "打开已有进度文件": [
+      "Open progress file",
+      "既存の進捗ファイルを開く"
+    ],
+    "立即保存": [
+      "Save now",
+      "今すぐ保存"
+    ],
+    "断开关联": [
+      "Unlink file",
+      "関連付けを解除"
+    ],
+    "尚未关联本地文件；进度仍会缓存在当前浏览器。": [
+      "No file linked. Progress is still cached in this browser.",
+      "ファイルは未設定です。進捗は引き続きブラウザーにキャッシュされます。"
+    ],
+    "当前浏览器不支持直接写入本地文件，请使用 Chrome 或 Edge，或使用导出、导入进度。": [
+      "This browser cannot write directly to local files. Use Chrome or Edge, or export and import progress.",
+      "このブラウザーはローカルファイルへの直接保存に対応していません。Chrome・Edge、または進捗のエクスポート・インポートをご利用ください。"
+    ],
+    "文件已在外部修改，自动保存已停止。请断开关联后重新打开该文件。": [
+      "The file changed outside this page. Autosave has stopped. Unlink and reopen the file.",
+      "ファイルが外部で変更されたため、自動保存を停止しました。関連付けを解除して開き直してください。"
+    ],
+    "写入本地文件失败，进度仍在浏览器中。请点击“立即保存”重试，或导出备份。": [
+      "File save failed. Progress is still in the browser. Click Save now to retry or export a backup.",
+      "ファイルへの保存に失敗しました。進捗はブラウザーに残っています。「今すぐ保存」で再試行するか、バックアップをエクスポートしてください。"
+    ],
+    "正在写入本地进度文件…": [
+      "Saving local progress file…",
+      "ローカル進捗ファイルに保存中…"
+    ],
+    "有修改等待写入本地文件…": [
+      "Changes waiting to be saved…",
+      "変更をローカルファイルに保存待ち…"
+    ],
+    "本地文件已保存。": [
+      "Local file saved.",
+      "ローカルファイルに保存しました。"
+    ],
+    "已关联本地文件，后续修改将自动保存。": [
+      "File linked. Future changes will be saved automatically.",
+      "ファイルを関連付けました。以降の変更は自動保存されます。"
+    ],
+    "上次保存：": [
+      "Last saved:",
+      "前回保存："
+    ],
+    "本地文件操作失败：": [
+      "Local file operation failed:",
+      "ローカルファイルの操作に失敗しました："
+    ],
+    "未获得文件写入权限，原进度已保留。": [
+      "File write permission was not granted. Existing progress is preserved.",
+      "ファイルへの書き込みが許可されませんでした。元の進捗は保持されています。"
+    ],
+    "请先关联本地进度文件。": [
+      "Link a local progress file first.",
+      "先にローカル進捗ファイルを関連付けてください。"
+    ],
+    "文件已发生变化，请取消后重新打开。": [
+      "The file changed. Cancel and reopen it.",
+      "ファイルが変更されました。キャンセルして開き直してください。"
+    ],
+    "载入本地进度文件": [
+      "Load local progress file",
+      "ローカル進捗ファイルを読み込み"
+    ],
+    "文件中的异刃数：": [
+      "Blades in this file:",
+      "ファイル内のブレイド数："
+    ],
+    "；当前网页中的异刃数：": [
+      "; Blades currently on this page:",
+      "／現在のページ内のブレイド数："
+    ],
+    "载入后以该文件的进度、讨伐勾选和个人规则为准，后续修改会自动写回。需要保留当前网页进度，请先取消并导出备份。": [
+      "Loading replaces this page’s progress, hunt checkmarks and personal rules with this file. Future changes save back to it. To keep current progress, cancel and export a backup first.",
+      "このファイルの進捗・討伐チェック・個人判定で現在の内容を置き換え、以降の変更は同じファイルに保存します。現在の進捗を残す場合は、キャンセルして先にバックアップをエクスポートしてください。"
+    ],
+    "载入并关联": [
+      "Load and link",
+      "読み込んで関連付け"
+    ],
+    "取消": [
+      "Cancel",
+      "キャンセル"
+    ],
+    "已从本地文件载入完整进度。": [
+      "Complete progress loaded from local file.",
+      "ローカルファイルから全進捗を読み込みました。"
+    ],
+    "备份包含无效的讨伐完成记录。": [
+      "The backup contains invalid hunt checkmarks.",
+      "バックアップの討伐チェックが無効です。"
+    ],
+    "备份包含无效的宫比罗形态记录。": [
+      "The backup contains an invalid Dagas form record.",
+      "バックアップのカサネの形態記録が無効です。"
+    ],
+    "浏览器无法保存，未载入进度文件。": [
+      "The browser could not save. The progress file was not loaded.",
+      "ブラウザーに保存できなかったため、進捗ファイルは読み込んでいません。"
+    ],
+    "圆环与讨伐记录可关联本地 JSON 文件自动保存，当前浏览器同时保留缓存。": [
+      "Chart and hunt progress can autosave to a linked local JSON file, with a browser cache retained.",
+      "リング・討伐進捗は関連付けたローカルJSONに自動保存でき、ブラウザーにもキャッシュを保持します。"
+    ],
+    "已关联的本地进度文件也会同步更新。": [
+      "Any linked local progress file is updated too.",
+      "関連付けたローカル進捗ファイルにも反映されます。"
     ]
   },
   "phrases": {

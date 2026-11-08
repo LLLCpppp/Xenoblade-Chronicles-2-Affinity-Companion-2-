@@ -47,3 +47,9 @@
 アップロードは [手順書（中国語）](docs/GITHUB_UPLOAD.zh-CN.md) または [GitHub 公式ガイド](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github) を参照してください。GitHub Pages は `main` ブランチの `/ (root)` を指定できます。
 
 非公式のファンツールです。第三者のゲーム文章・画像の権利は各権利者に帰属します。コードのライセンスは未選択です。詳しくは [出典](ATTRIBUTION.md) を参照してください。
+
+### PC上のファイルに保存
+
+ページ上部のローカル進捗ファイルからJSONに自動保存できます（File System Access対応のChrome / Edgeなどが必要です）。初回はファイルを新規作成して関連付け、保存先を選んでください。保存完了を確認してからページを閉じ、次回は同じ進捗ファイルを開いて続けてください。リング・討伐チェック・個人判定・形態バックアップを保存します。
+
+関連付けを解除すると以降の書き込みを停止し、ブラウザーのキャッシュは保持します。ファイルが外部で変更された場合は開き直すまで自動保存を停止します。非対応ブラウザーでは従来のエクスポート・インポートを利用できます。ファイル読み込みは全進捗を置換し、従来のインポートは引き続き結合します。
