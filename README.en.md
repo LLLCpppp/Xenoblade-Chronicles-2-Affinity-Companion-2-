@@ -28,7 +28,7 @@ Extract the project and open **`index.html`** in a modern browser. No installati
 
 ## Data and translations
 
-Snapshot: **2026-11-08**. Includes 55 recordable Blade charts, 493 branches, 2,188 skill nodes and 220 tier conditions. The hunt table has 82 nodes across 30 Blades: 50 verified unique-monster names, three uncertain enemy names and three requirements without a specific enemy name.
+Snapshot: **2026-11-08**. Includes 55 recordable Blade charts, 493 branches, 2,189 skill nodes and 220 tier conditions. The hunt table has 79 nodes across 29 Blades: 50 verified unique-monster names and three requirements without a specific enemy name. Chart corrections and three ordinary-monster exclusions were applied on 2026-11-10; see [the correction log](docs/DATA_CORRECTIONS.zh-CN.md).
 
 Conditions, portraits and links come from [xenoblade2.cn](https://xenoblade2.cn/异刃). The [Merc Mission page](https://xenoblade2.cn/佣兵团任务) supplies the base exclusion rules. Names prioritize the Wiki’s English/Japanese fields; auxiliary names and effects are matched by table and row ID against [Xenoblade Data](https://xenoblade.github.io/). Names without a verified match and explanatory text use project translations. See `locales.json` and [ATTRIBUTION.md](ATTRIBUTION.md) for provenance.
 

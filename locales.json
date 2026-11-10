@@ -3943,8 +3943,8 @@
       "初期習得"
     ],
     "本地进度未载入：": [
-      "Local progress not loaded:",
-      "ローカル進捗の読込失敗："
+      "Local progress was not loaded:",
+      "ローカル進捗を読み込めませんでした："
     ],
     "连锁攻击过量击杀条件，不能通过佣兵团解锁。": [
       "Chain Attack Overkill conditions cannot be completed via Merc Missions.",
@@ -15189,6 +15189,34 @@
     "已关联的本地进度文件也会同步更新。": [
       "Any linked local progress file is updated too.",
       "関連付けたローカル進捗ファイルにも反映されます。"
+    ],
+    "多多行走（可通过至今的累计数达成）0/400000": [
+      "Walk a lot (previous total counts) · 0/400000",
+      "たくさん歩く（これまでの累計でも達成可能）0/400000"
+    ],
+    "Wiki 原表将此节点误标为阶段 2，已按游戏数据校正为阶段 3。": [
+      "The Wiki table mislabels this node as tier 2. Its position is corrected to tier 3 using game data.",
+      "Wiki表ではこのノードが第2段階と誤記されています。ゲームデータに基づき第3段階に修正しています。"
+    ],
+    "Wiki 原表这一行缺少阶段单元格，已按游戏数据补为阶段 5。": [
+      "This Wiki row is missing its tier cell. Tier 5 is restored using game data.",
+      "Wiki表のこの行には段階のセルが欠落しています。ゲームデータに基づき第5段階として復元しています。"
+    ],
+    "阶段位置游戏数据 ↗": [
+      "Game data for tier position ↗",
+      "段階位置のゲームデータ ↗"
+    ],
+    "部分 Wiki 阶段有误或缺失，已按对应游戏数据校正；节点详情保留 Wiki 条件并附校正出处。": [
+      "Some Wiki tiers are incorrect or missing and have been corrected using matching game data. Node details preserve Wiki requirements and link to the correction sources.",
+      "Wikiの段階の誤記・欠落は対応するゲームデータに基づき修正しています。ノード詳細にはWikiの条件と修正の出典を表示します。"
+    ],
+    "敌人详情存在“分类：珍稀种”即为已确认精英；已确认的普通怪物不作精英收录。当前讨伐表含已确认精英及未指定名字的任意珍稀种条件。": [
+      "Enemies classified as Unique Monsters are confirmed entries; confirmed ordinary enemies are excluded. The current hunt list contains confirmed Unique Monsters and requirements to defeat an unspecified Unique Monster.",
+      "敵詳細でユニークに分類された敵を確定項目とし、通常敵と確認されたものは除外します。現在の討伐表には確定ユニークと名前指定のないユニーク討伐条件を収録しています。"
+    ],
+    "不是受支持的圆环数据版本。": [
+      "Unsupported Affinity Chart data revision.",
+      "未対応のキズナリングデータ改訂版です。"
     ]
   },
   "terms": {
@@ -22011,8 +22039,8 @@
       "クビラは片方の形態のみ登録できます。先にバックアップから不要な形態を外してください。"
     ],
     "本地进度未载入：": [
-      "Local progress not loaded:",
-      "ローカル進捗の読込失敗："
+      "Local progress was not loaded:",
+      "ローカル進捗を読み込めませんでした："
     ],
     "历史记录同时含宫比罗两种形态，当前保留最近录入的": [
       "Previous records contain both Dagas forms. Keeping the most recently added:",
@@ -22169,6 +22197,34 @@
     "已关联的本地进度文件也会同步更新。": [
       "Any linked local progress file is updated too.",
       "関連付けたローカル進捗ファイルにも反映されます。"
+    ],
+    "多多行走（可通过至今的累计数达成）0/400000": [
+      "Walk a lot (previous total counts) · 0/400000",
+      "たくさん歩く（これまでの累計でも達成可能）0/400000"
+    ],
+    "Wiki 原表将此节点误标为阶段 2，已按游戏数据校正为阶段 3。": [
+      "The Wiki table mislabels this node as tier 2. Its position is corrected to tier 3 using game data.",
+      "Wiki表ではこのノードが第2段階と誤記されています。ゲームデータに基づき第3段階に修正しています。"
+    ],
+    "Wiki 原表这一行缺少阶段单元格，已按游戏数据补为阶段 5。": [
+      "This Wiki row is missing its tier cell. Tier 5 is restored using game data.",
+      "Wiki表のこの行には段階のセルが欠落しています。ゲームデータに基づき第5段階として復元しています。"
+    ],
+    "阶段位置游戏数据 ↗": [
+      "Game data for tier position ↗",
+      "段階位置のゲームデータ ↗"
+    ],
+    "部分 Wiki 阶段有误或缺失，已按对应游戏数据校正；节点详情保留 Wiki 条件并附校正出处。": [
+      "Some Wiki tiers are incorrect or missing and have been corrected using matching game data. Node details preserve Wiki requirements and link to the correction sources.",
+      "Wikiの段階の誤記・欠落は対応するゲームデータに基づき修正しています。ノード詳細にはWikiの条件と修正の出典を表示します。"
+    ],
+    "敌人详情存在“分类：珍稀种”即为已确认精英；已确认的普通怪物不作精英收录。当前讨伐表含已确认精英及未指定名字的任意珍稀种条件。": [
+      "Enemies classified as Unique Monsters are confirmed entries; confirmed ordinary enemies are excluded. The current hunt list contains confirmed Unique Monsters and requirements to defeat an unspecified Unique Monster.",
+      "敵詳細でユニークに分類された敵を確定項目とし、通常敵と確認されたものは除外します。現在の討伐表には確定ユニークと名前指定のないユニーク討伐条件を収録しています。"
+    ],
+    "不是受支持的圆环数据版本。": [
+      "Unsupported Affinity Chart data revision.",
+      "未対応のキズナリングデータ改訂版です。"
     ]
   },
   "phrases": {

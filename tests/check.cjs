@@ -22,3 +22,6 @@ require('./unique-actions.cjs');
 
 require('./file-progress.cjs');
 require('./local-file.cjs');
+
+require('./data-corrections.cjs');
+require('./source-corrections.cjs');

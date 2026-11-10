@@ -447,46 +447,6 @@
       ]
     },
     {
-      "name": "鸣",
-      "url": "https://xenoblade2.cn/%E5%BC%82%E5%88%83:%E9%B8%A3",
-      "category": "稀有异刃",
-      "element": "暗",
-      "role": "攻击",
-      "image_url": "https://images.xenoblade2.cn/images/thumb/f/fa/Fim_bl_053_0.png/356px-Fim_bl_053_0.png",
-      "ring_urls": [
-        "https://xenoblade2.cn/%E5%BC%82%E5%88%83:%E9%B8%A3/%E7%89%B5%E7%BB%8A%E5%9C%86%E7%8E%AF"
-      ],
-      "revision": "https://xenoblade2.cn/index.php?title=异刃:鸣&oldid=43518",
-      "image": "assets/blade-15.png",
-      "rows": [
-        {
-          "node": "暴力机关",
-          "stage": "3",
-          "effect": "每使用一次必杀技则伤害输出增加35%（最多300%）",
-          "condition": "在斯佩比亚打倒 铠甲钳蝎 0/4",
-          "location": "斯佩比亚",
-          "count": 4,
-          "enemies": [
-            {
-              "name": "铠甲钳蝎",
-              "url": "https://xenoblade2.cn/%E6%95%8C%E4%BA%BA:%E9%93%A0%E7%94%B2%E9%92%B3%E8%9D%8E",
-              "redlink": false,
-              "classes": [
-                "任务敌人"
-              ],
-              "head": "铠甲钳蝎 等级 28 ( +2 ) 属性 地 分类 任务敌人 任务 种族 昆虫 体型 100% HP 108331 力量 265 以太力 216 敏捷 68 灵巧 104 运气 52 物理抗性 25% 以太抗性 0% 暴击率 12% 格挡率 3% 吹飞 40% 击退 40% 破防 40% 倒地 100% 浮空 100% 猛击 100% 愤怒 被动能力 力量提升30% 物理防御提升30% 属性变化 雷 武技 名称 类型 释放对象 判定范围 伤害倍率 冷却时间 力量 敌方目标 单体 130 2秒 攻击属性 无 使用距离 8 初始冷却 100% 命中修正 0% 暴击修正 0% 技能判定 秒 伤害倍率",
-              "unique": false,
-              "ordinary": false,
-              "status": "uncertain"
-            }
-          ],
-          "source": "https://xenoblade2.cn/%E5%BC%82%E5%88%83:%E9%B8%A3/%E7%89%B5%E7%BB%8A%E5%9C%86%E7%8E%AF#暴力机关",
-          "status": "uncertain",
-          "id": "b15-0"
-        }
-      ]
-    },
-    {
       "name": "玛瑙",
       "url": "https://xenoblade2.cn/%E5%BC%82%E5%88%83:%E7%8E%9B%E7%91%99",
       "category": "稀有异刃",
@@ -631,32 +591,6 @@
       "rows": [
         {
           "node": "感伤爆发",
-          "stage": "3",
-          "effect": "必杀技造成的仇恨值提升80%",
-          "condition": "在洛修利亚打倒 马格奈尔刺毛虫 0/5",
-          "location": "洛修利亚",
-          "count": 5,
-          "enemies": [
-            {
-              "name": "马格奈尔刺毛虫",
-              "url": "https://xenoblade2.cn/%E6%95%8C%E4%BA%BA:%E9%A9%AC%E6%A0%BC%E5%A5%88%E5%B0%94%E5%88%BA%E6%AF%9B%E8%99%AB",
-              "redlink": false,
-              "classes": [
-                "任务敌人",
-                "召唤敌人"
-              ],
-              "head": "马格奈尔刺毛虫 目录 1 普通敌人 1.1 武技 1.2 击杀奖励 1.3 地图位置 2 尼古斯雪牛兽召唤 2.1 武技 2.2 击杀奖励 2.3 出现方式 普通敌人 等级 40 ( +2 ) 属性 地 分类 任务敌人 任务 种族 昆虫 体型 100% HP 83638 力量 311 以太力 267 敏捷 53 灵巧 114 运气 60 物理抗性 30% 以太抗性 -10% 暴击率 8% 格挡率 0% 吹飞 100% 击退 100% 破防 40% 倒地 100% 浮空 100% 猛击 100% 愤怒 被动能力 物理防御提升50% 破防抗性提升20% 属性变化 火 武技 名称 类型 释放对象 判",
-              "unique": false,
-              "ordinary": false,
-              "status": "uncertain"
-            }
-          ],
-          "source": "https://xenoblade2.cn/%E5%BC%82%E5%88%83:%E9%87%8D%E9%9F%B3/%E7%89%B5%E7%BB%8A%E5%9C%86%E7%8E%AF#感伤爆发",
-          "status": "uncertain",
-          "id": "b21-0"
-        },
-        {
-          "node": "感伤爆发",
           "stage": "5",
           "effect": "必杀技造成的仇恨值提升100%",
           "condition": "在英维迪亚打倒 吸血贵妇人玛蒙 0/1",
@@ -679,31 +613,6 @@
           "source": "https://xenoblade2.cn/%E5%BC%82%E5%88%83:%E9%87%8D%E9%9F%B3/%E7%89%B5%E7%BB%8A%E5%9C%86%E7%8E%AF#感伤爆发",
           "status": "verified",
           "id": "b21-1"
-        },
-        {
-          "node": "秘密欲望",
-          "stage": "4",
-          "effect": "HP低于30%时 伤害输出提升130%",
-          "condition": "在艾尔皮斯灵洞打倒 清洗者刺毛虫 0/5",
-          "location": "艾尔皮斯灵洞",
-          "count": 5,
-          "enemies": [
-            {
-              "name": "清洗者刺毛虫",
-              "url": "https://xenoblade2.cn/%E6%95%8C%E4%BA%BA:%E6%B8%85%E6%B4%97%E8%80%85%E5%88%BA%E6%AF%9B%E8%99%AB",
-              "redlink": false,
-              "classes": [
-                "任务敌人"
-              ],
-              "head": "清洗者刺毛虫 等级 45 ( +2 ) 属性 地 分类 任务敌人 任务 种族 昆虫 体型 100% HP 80896 力量 347 以太力 298 敏捷 58 灵巧 126 运气 67 物理抗性 30% 以太抗性 -10% 暴击率 8% 格挡率 0% 吹飞 100% 击退 100% 破防 40% 倒地 100% 浮空 100% 猛击 100% 愤怒 被动能力 物理防御提升50% 破防抗性提升20% 属性变化 火 武技 名称 类型 释放对象 判定范围 伤害倍率 冷却时间 力量 敌方目标 单体 100 2秒 攻击属性 无 使用距离 6 初始冷却 100% 命中修正 0% 暴击修正 0% 技能判定 ",
-              "unique": false,
-              "ordinary": false,
-              "status": "uncertain"
-            }
-          ],
-          "source": "https://xenoblade2.cn/%E5%BC%82%E5%88%83:%E9%87%8D%E9%9F%B3/%E7%89%B5%E7%BB%8A%E5%9C%86%E7%8E%AF#秘密欲望",
-          "status": "uncertain",
-          "id": "b21-2"
         }
       ]
     },
@@ -2637,7 +2546,7 @@
       ],
       "category": "稀有异刃",
       "kill_rows": 8,
-      "included": 1,
+      "included": 0,
       "revision": "https://xenoblade2.cn/index.php?title=异刃:鸣&oldid=43518"
     },
     {
@@ -2703,7 +2612,7 @@
       ],
       "category": "稀有异刃",
       "kill_rows": 6,
-      "included": 3,
+      "included": 1,
       "revision": "https://xenoblade2.cn/index.php?title=异刃:重音&oldid=43523"
     },
     {
@@ -3109,10 +3018,10 @@
   },
   "statistics": {
     "scanned": 57,
-    "blades": 30,
-    "nodes": 82,
+    "blades": 29,
+    "nodes": 79,
     "verified_names": 50,
-    "uncertain_nodes": 3,
+    "uncertain_nodes": 0,
     "generic_nodes": 3
   },
   "mercenary": {
@@ -13554,9 +13463,9 @@
                   }
                 ],
                 "merc": {
-                  "status": "manual",
-                  "rule": "unique",
-                  "reason": "珍稀种讨伐（含依前次规则纳入的待定精英）需要手动完成。"
+                  "status": "eligible",
+                  "rule": "not_excluded",
+                  "reason": "未落入 Wiki 列出的佣兵团开环排除类型，按该规则可推进。"
                 },
                 "ordinal": 3
               },
@@ -17526,9 +17435,9 @@
                   }
                 ],
                 "merc": {
-                  "status": "manual",
-                  "rule": "unique",
-                  "reason": "珍稀种讨伐（含依前次规则纳入的待定精英）需要手动完成。"
+                  "status": "eligible",
+                  "rule": "not_excluded",
+                  "reason": "未落入 Wiki 列出的佣兵团开环排除类型，按该规则可推进。"
                 },
                 "ordinal": 3
               },
@@ -17712,9 +17621,9 @@
                   }
                 ],
                 "merc": {
-                  "status": "manual",
-                  "rule": "unique",
-                  "reason": "珍稀种讨伐（含依前次规则纳入的待定精英）需要手动完成。"
+                  "status": "eligible",
+                  "rule": "not_excluded",
+                  "reason": "未落入 Wiki 列出的佣兵团开环排除类型，按该规则可推进。"
                 },
                 "ordinal": 4
               },
@@ -41885,7 +41794,7 @@
               },
               {
                 "node": "镌刻",
-                "stage": 2,
+                "stage": 3,
                 "effect": "必杀技造成的仇恨值提升80%",
                 "condition": "使用镌刻 0/8",
                 "source": "https://xenoblade2.cn/%E5%BC%82%E5%88%83:%E6%96%A9%E9%93%81/%E7%89%B5%E7%BB%8A%E5%9C%86%E7%8E%AF#镌刻",
@@ -41895,7 +41804,10 @@
                   "rule": "not_excluded",
                   "reason": "未落入 Wiki 列出的佣兵团开环排除类型，按该规则可推进。"
                 },
-                "ordinal": 3
+                "ordinal": 3,
+                "wiki_stage": 2,
+                "source_note": "Wiki 原表将此节点误标为阶段 2，已按游戏数据校正为阶段 3。",
+                "correction_source": "https://xenoblade.github.io/xb2_cn/bdat/common/FLD_AchievementSet.html#397"
               },
               {
                 "node": "镌刻",
@@ -41933,7 +41845,7 @@
               }
             ],
             "initial_completed": 1,
-            "duplicate_stages": true
+            "duplicate_stages": false
           },
           {
             "name": "死亡竞赛",
@@ -43656,6 +43568,22 @@
                   "reason": "玩家确认：普通交谈计数条件可以通过佣兵团推进；此确认优先于旧个人打标。观看牵绊对话、指定剧情人物或任务等独立要求仍按原规则判断。"
                 },
                 "ordinal": 2
+              },
+              {
+                "node": "暗属性之力",
+                "stage": 5,
+                "effect": "暗属性异刃的能力",
+                "condition": "多多行走（可通过至今的累计数达成）0/400000",
+                "source": "https://xenoblade2.cn/%E5%BC%82%E5%88%83:M.O.M.O._:i#暗属性之力",
+                "links": [],
+                "merc": {
+                  "status": "manual",
+                  "rule": "movement",
+                  "reason": "移动、跳跃、畅游云海等，需要手动完成。"
+                },
+                "ordinal": 3,
+                "source_note": "Wiki 原表这一行缺少阶段单元格，已按游戏数据补为阶段 5。",
+                "correction_source": "https://xenobladedata.github.io/xb2_sw2/common/FLD_AchievementSet.html#1786"
               }
             ],
             "initial_completed": 0,
@@ -43887,8 +43815,8 @@
     "statistics": {
       "blades": 55,
       "tracks": 493,
-      "all_rows": 2408,
-      "skill_rows": 2188,
+      "all_rows": 2409,
+      "skill_rows": 2189,
       "gate_rows": 220
     },
     "audit": {
@@ -45284,6 +45212,65 @@
           "source": "https://xenoblade2.cn/%E5%BC%82%E5%88%83:%E8%90%A4/%E7%89%B5%E7%BB%8A%E5%9C%86%E7%8E%AF#偷心"
         }
       ]
-    }
+    },
+    "chart_revision": 2
+  },
+  "corrections": {
+    "date": "2026-11-10",
+    "chart_revision": 2,
+    "retired_hunt_ids": [
+      "b15-0",
+      "b21-0",
+      "b21-2"
+    ],
+    "removed_ordinary_hunts": [
+      {
+        "blade": "鸣",
+        "node": "暴力机关",
+        "stage": "3",
+        "condition": "在斯佩比亚打倒 铠甲钳蝎 0/4",
+        "source": "https://xenoblade2.cn/%E5%BC%82%E5%88%83:%E9%B8%A3/%E7%89%B5%E7%BB%8A%E5%9C%86%E7%8E%AF#暴力机关",
+        "enemy": "铠甲钳蝎",
+        "enemy_source": "https://xenoblade2.cn/%E6%95%8C%E4%BA%BA:%E9%93%A0%E7%94%B2%E9%92%B3%E8%9D%8E"
+      },
+      {
+        "blade": "重音",
+        "node": "感伤爆发",
+        "stage": "3",
+        "condition": "在洛修利亚打倒 马格奈尔刺毛虫 0/5",
+        "source": "https://xenoblade2.cn/%E5%BC%82%E5%88%83:%E9%87%8D%E9%9F%B3/%E7%89%B5%E7%BB%8A%E5%9C%86%E7%8E%AF#感伤爆发",
+        "enemy": "马格奈尔刺毛虫",
+        "enemy_source": "https://xenoblade2.cn/%E6%95%8C%E4%BA%BA:%E9%A9%AC%E6%A0%BC%E5%A5%88%E5%B0%94%E5%88%BA%E6%AF%9B%E8%99%AB"
+      },
+      {
+        "blade": "重音",
+        "node": "秘密欲望",
+        "stage": "4",
+        "condition": "在艾尔皮斯灵洞打倒 清洗者刺毛虫 0/5",
+        "source": "https://xenoblade2.cn/%E5%BC%82%E5%88%83:%E9%87%8D%E9%9F%B3/%E7%89%B5%E7%BB%8A%E5%9C%86%E7%8E%AF#秘密欲望",
+        "enemy": "清洗者刺毛虫",
+        "enemy_source": "https://xenoblade2.cn/%E6%95%8C%E4%BA%BA:%E6%B8%85%E6%B4%97%E8%80%85%E5%88%BA%E6%AF%9B%E8%99%AB"
+      }
+    ],
+    "chart_fixes": [
+      {
+        "blade": "斩铁",
+        "track": "镌刻",
+        "index": 2,
+        "wiki_stage": 2,
+        "stage": 3,
+        "condition": "使用镌刻 0/8",
+        "evidence": "https://xenoblade.github.io/xb2_cn/bdat/common/FLD_AchievementSet.html#397"
+      },
+      {
+        "blade": "M.O.M.O. :i",
+        "track": "暗属性之力",
+        "index": 2,
+        "stage": 5,
+        "condition": "多多行走（可通过至今的累计数达成）0/400000",
+        "evidence": "https://xenobladedata.github.io/xb2_sw2/common/FLD_AchievementSet.html#1786"
+      }
+    ],
+    "note": "2026-11-08 的复核计数为历史快照；当前统计以 statistics 与 mercenary.statistics 为准。条件和效果保留 Wiki 原文，阶段位置由同 ID 游戏数据校正。"
   }
 }
